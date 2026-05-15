@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OBJECT ORIENTED PROGRAMMING 2 [B]\\New Project 3\\New Project\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Downloads\\22-49385-3_22-49393-3_22-48545-3_22-48242-2 1.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33E7CD3-1052-404D-9A8D-2B3278A20BF0}|Project\\Project.csproj|e:\\object oriented programming 2 [b]\\new project 3\\new project\\project\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33E7CD3-1052-404D-9A8D-2B3278A20BF0}|Project\\Project.csproj|solutionrelative:project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Downloads\\New Project 3\\New Project\\Project\\Project\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "22-49385-3_22-49393-3_22-48545-3_22-48242-2 1.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\22-49385-3_22-49393-3_22-48545-3_22-48242-2 1.cpp",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\22-49385-3_22-49393-3_22-48545-3_22-48242-2 1.cpp",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAowJMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-07T17:20:05.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\OBJECT ORIENTED PROGRAMMING 2 [B]\\New Project 3\\New Project\\Project\\Project\\Program.cs",
+              "RelativeDocumentMoniker": "Project\\Program.cs",
+              "ToolTip": "E:\\OBJECT ORIENTED PROGRAMMING 2 [B]\\New Project 3\\New Project\\Project\\Project\\Program.cs",
+              "RelativeToolTip": "Project\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T13:12:31.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\New Project 3\\New Project\\Project\\Project\\Login.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\New Project 3\\New Project\\Project\\Project\\Login.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:00:44.609Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
